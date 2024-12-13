@@ -1,1 +1,2 @@
-# Project-2
+# Titanic_Survival_Analysis
+#Analysis of Titanic dataset using Python
